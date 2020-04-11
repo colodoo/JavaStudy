@@ -15,6 +15,8 @@
 - 线程
 	- [并发与并行的区别](https://editor.csdn.net/md/?articleId=105320216)
 	- [线程死锁是什么？怎么避免死锁？](https://blog.csdn.net/lodog1/article/details/105330045)
+	- [可重入锁](https://blog.csdn.net/lodog1/article/details/105376580)
+	- [乐观锁与悲观锁](https://blog.csdn.net/lodog1/article/details/105423157)
 - 数据库
 - 面试
 
@@ -25,5 +27,5 @@
 
 >  最后做个小小广告，有对WEB开发和网络安全感兴趣的，可以加群一起学习和交流！
 
-![交流群](https://img-blog.csdnimg.cn/20200328190953288.png)
+![交流群](https://img-blog.csdnimg.cn/20200328190953288.png)  
 QQ：425343603
