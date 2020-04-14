@@ -20,6 +20,12 @@
 - 数据库
 - 面试
 
+**阅读笔记**
+
+ - Java并发编程实战笔记
+ 	- [线程安全性-什么是线程安全性](https://blog.csdn.net/lodog1/article/details/105498521)
+ 	- [线程安全性-原子性](https://blog.csdn.net/lodog1/article/details/105523323)
+
 立个FLAG！尽量每篇文章都带有便于理解的图片！
 我会慢慢填坑的：）
 
