@@ -17,7 +17,15 @@
 	- [线程死锁是什么？怎么避免死锁？](https://blog.csdn.net/lodog1/article/details/105330045)
 	- [可重入锁](https://blog.csdn.net/lodog1/article/details/105376580)
 	- [乐观锁与悲观锁](https://blog.csdn.net/lodog1/article/details/105423157)
+- JVM
+	- GC
+		- [GC如何判断对象是否死亡](https://blog.csdn.net/lodog1/article/details/106819773)
 - 数据库
+	- SQL基础
+		- 基础知识
+		- 存储过程
+	- MYSQL
+	- ORACLE
 - 面试
 
 **阅读笔记**
